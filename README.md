@@ -9,7 +9,7 @@
 	 data文件请联系作者获取，完全免费获取！
 
 #### 联系我们
-     如需帮助请联系我微信 ，微信：chuige365  备注码云
+     如需帮助请联系我微信 ，微信：xfy6369  备注git
 	 
 #### 搭建教程
 https://developers.weixin.qq.com/community/develop/article/doc/0006025b7302d070172bcc8cd5b413?jumpto=comment&commentid=000286d19242e08a142b3e6795b0
@@ -48,7 +48,7 @@ https://developers.weixin.qq.com/community/develop/article/doc/0006025b7302d0701
 
 #### 联系我们
 
-   如需帮助请联系我微信 ，微信：chuige365  
+   如需帮助请联系我微信 ，微信：xfy6369
    
    ![](https://gitee.com/yingwuniao/img/raw/master/wx.jpg)
 

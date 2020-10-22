@@ -6,24 +6,19 @@
   
    注：本开源版本久供开发学习，如果修改代码或上线需要经过作者许可哦，请打赏作者66元 ~ 写代码不易,开源不易。保障作者著作权益 ~ 如果你觉得项目对你有所帮助 ~ 期待得到你的打赏哦
      
-	 data文件请联系作者获取，完全免费获取！
+
 
 #### 联系我们
      如需帮助请联系我微信 ，微信：xfy6369  备注git
 	 
 #### 搭建教程
-https://developers.weixin.qq.com/community/develop/article/doc/0006025b7302d070172bcc8cd5b413?jumpto=comment&commentid=000286d19242e08a142b3e6795b0
+
 	 
 #### 在线体验
 
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/logo.jpg)
  
 #### 成语答题小程序截图
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/1.png)
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/2.png)
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/3.png)
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/4.png)
-![](https://gitee.com/yingwuniao/img/raw/master/chengyu/5.png)
+
 
 
  

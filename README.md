@@ -1,4 +1,4 @@
-# 开源成语答题小程序
+# 开源的成语答题小程序
 
 #### 介绍
 
@@ -10,15 +10,15 @@
 
 #### 联系我们
      如需帮助请联系我微信 ，微信：xfy6369  备注git
-	 
+	https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s 
 #### 搭建教程
 
 	 
 #### 在线体验
-
+https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
  
 #### 成语答题小程序截图
-
+https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
 
 
  
@@ -45,11 +45,11 @@
 
    如需帮助请联系我微信 ，微信：xfy6369
    
-   ![](https://gitee.com/yingwuniao/img/raw/master/wx.jpg)
+https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
 
 #### 打赏作者
-   ![](https://gitee.com/yingwuniao/img/raw/master/dashang.jpg)
+https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
    
 #### 备注
-
+https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
 	  

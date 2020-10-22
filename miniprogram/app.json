@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/im/room/room",
+    "pages/game/game",
+    "pages/chuigejinbi/chuigejinbi",
+    "pages/chuigepaihang/chuigepaihang",
+    "pages/chuigemore/chuigemore",
+    "pages/chuigewenti/chuigewenti",
+    "pages/chuigeduihuan/chuigeduihuan"
+  ],
+  "window": {
+    "backgroundColor": "#ffd541",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5735B7",
+    "navigationBarTitleText": "成语答题有奖",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}

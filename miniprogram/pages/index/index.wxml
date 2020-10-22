@@ -1,0 +1,58 @@
+<!--index.wxml-->
+<view class="chuige">
+  <view style="height:200rpx;text-align:center;margin-top: 100rpx;">
+     <image  style="width:460rpx;height:80rpx;text-align:center;margin-top: 100rpx;" src="https://dtz.fanyc.club/attachment/images/2/2020/05/i73ET77EjlartyAdA4R7ytla7dLYqy.png"></image>
+   </view>
+   <view class="chuigeuser">
+    <text bind:tap="chuigeshowbox" class="chuigeguize">规则</text>
+  </view>
+   <view class="chuigedengji">
+      <view class="chuigeitem">
+        <image class="chuigeavatar" src="{{userInfo.headimgurl}}"></image>
+        <view class="chuigeleft">
+           <view class="chuigeusername">{{userInfo.nickname}}</view>
+           <view style="padding:10rpx">已做 {{userInfo.level}} 道</view>
+        </view>
+      </view>
+      <view class="chuigeitem">
+        <view style="margin-bottom:20rpx">
+          <image class="img" src="/images/icon/index/jinbi1.png"></image>
+           <text style="">{{userInfo.gold_num}} 金币 </text>
+        </view>
+        <view>
+          <image class="img" src="/images/icon/index/hongbao.png"></image>
+           <text style="">{{userInfo.balance}} 元 </text><text bind:tap="chuigeduihuan" class="shuigetxt"> 兑换</text>
+        </view>
+      </view>
+   </view>
+   <view bind:tap="chuigegame" class="chuigechuangguan">开始猜成语</view>
+   <view class="chuigeqita">
+        <view bind:tap="chuigejinbi" class="chuigeitem">
+          <image class="img" src="/images/icon/index/video1.png"></image>
+           <view class="chuigetext">免费金币</view>
+        </view>
+        <view bind:tap="chuigepaihang" class="chuigeitem">
+          <image class="img" src="/images/icon/index/rank.png"></image>
+          <view class="chuigetext">排行榜</view>
+        </view>
+        <view bind:tap="chuigemore" class="chuigeitem">
+          <image class="img" src="/images/icon/index/recommend1.png"></image>
+          <view class="chuigetext">更多好玩</view>
+        </view>
+        <view bind:tap="chuigewenti" class="chuigeitem">
+          <image class="img" src="/images/icon/index/service.png"></image>
+          <view class="chuigetext">常见问题</view>
+        </view>
+   </view>
+   <view class="chuigead" wx:if="{{setting.unit_id}}">
+        <ad adIntervals="30" unitId="{{setting.unit_id}}"></ad>
+    </view>
+</view>
+<view wx:if="{{guize}}" class="chuigebox">
+   <view bind:tap="chuigeclosebox" class="chuigeclose"></view>
+   <view class="chuigeguize">
+       <view class="chuigeboxtitle">规则</view>
+       <view class="chuigecon">1.成语答题每答一题，消耗100金币，获取金币可到免费金币获取。\n2.答题随机关卡可获得红包奖励，红包可兑换物品。</view>
+       <view bind:tap="chuigeclosebox" class="chuigebtn">我知道了</view>
+   </view>
+</view>

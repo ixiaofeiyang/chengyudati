@@ -1,0 +1,24 @@
+<view>
+   <view class="chuigeuser">
+      <view class="chuigeusertitle">{{setting.invite_text}}</view>
+      <view class="chuige365-list">
+         <block wx:if="{{chuigeuser.length>0}}">
+                <view class="chuigelistitem" wx:for="{{chuigeuser}}" wx:key="index">
+                    <image class="chuigeavatar" src="{{item.headimgurl}}"></image>
+                </view>
+         </block>
+         <view wx:for="{{chuigeList}}" wx:key="index" class="chuigelistitem">
+          <image  class="img" src="/images/icon/invite/fans.png"></image>
+         </view>
+         <view class="chuigelistitem">
+          <image class="img" src="/images/icon/invite/more.png"></image>
+         </view>
+      </view>
+   </view>
+   <view class="chuigejinbi">我的金币： {{userInfo.gold_num}}</view>
+   <button openType="share" class="chuigeyaoqing"> {{setting.invite_button_text}}</button>
+   <view bind:tap="showRewardVideoAd" wx:if="{{showVideoAdButton}}" class="chuigeshiping"> 观看视频每次奖励 {{setting.per_video_gold}} 金币</view>
+</view>
+<view class="chuigead" wx:if="{{setting.pg_video_unit_id}}">
+        <ad adTheme="white" adType="video" unitId="{{setting.pg_video_unit_id}}"></ad>
+ </view>

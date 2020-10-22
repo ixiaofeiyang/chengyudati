@@ -1,0 +1,77 @@
+.pg-component {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0,0,0,.2);
+    z-index: 9999;
+}
+
+.pg-component .box {
+    width: 500rpx;
+    height: 570rpx;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #fff;
+    border-radius: 25rpx;
+}
+
+.box .title {
+    color: #000000;
+    font-weight: bold;
+    height: 100rpx;
+    line-height: 100rpx;
+    margin-top: 50rpx;
+    font-size: 34rpx;
+}
+
+.box .info {
+    text-align: left;
+    margin-top: 20rpx;
+    width: 340rpx;
+    margin-left: 80rpx;
+    font-size: 28rpx;
+    color: #5D5D5D;
+    height: 270rpx;
+    line-height: 50rpx;
+}
+
+.box .tip {
+    margin-bottom: 20rpx;
+}
+
+.box .desc {
+    text-indent: 2rpx;
+}
+
+.box .options {
+    height: 70rpx;
+    width: 500rpx;
+    line-height: 70rpx;
+    font-size: 28rpx;
+}
+
+.box .options .item {
+    width: 190rpx;
+    float: left;
+    height: 70rpx;
+    border-radius: 36rpx;
+    margin-left: 40rpx;
+    padding: 0;
+    font-size: 28rpx;
+    color: #ffffff;
+    line-height: 70rpx;
+}
+
+.box .options .cancel {
+    background-color: #bfbfbf;
+}
+
+.box .options .confirm {
+    background-color: #F44336;
+}

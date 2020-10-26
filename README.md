@@ -16,9 +16,7 @@
 ## 搭建教程
 
 	 
-## 在线体验
 
-[![BudK9s.jpg](https://s1.ax1x.com/2020/10/26/BudK9s.jpg)](https://imgchr.com/i/BudK9s)
  
 ## 成语答题小程序截图
 https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s

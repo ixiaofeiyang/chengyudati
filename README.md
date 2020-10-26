@@ -41,15 +41,11 @@ https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
    
     2020-10-20更新，如果您在成语答题小程序学习遇到问题，我们也提供付费服务
 
-#### 联系我们
+## 联系我们
 
    如需帮助请联系我微信 ，微信：xfy6369
    
 https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
 
-#### 打赏作者
-https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
-   
-#### 备注
-https://developers.weixin.qq.com/community/personal/oCJUswzxF_-VIn7PakNutpicw31s
+
 	  

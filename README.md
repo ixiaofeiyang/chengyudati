@@ -1,8 +1,11 @@
-## 成语答题小程序
+## 项目名称
 
-## 介绍
+成语答题小程序
+
+## 项目介绍
 
 
+成语答题小程序运营那些事? - 微信开放社区 https://developers.weixin.qq.com/community/develop/article/doc/000ce669c40be0e0ff99ee35851413 
 
 ## 联系我们
      
@@ -13,7 +16,6 @@
 
 如何搭建成语答题小程序? - 微信开放社区 https://developers.weixin.qq.com/community/develop/article/doc/00026c87df8ee0b2922b438f55b413
 
-	成语答题小程序运营那些事? - 微信开放社区 https://developers.weixin.qq.com/community/develop/article/doc/000ce669c40be0e0ff99ee35851413 
 
  
 ## 成语答题截图

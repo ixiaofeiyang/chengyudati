@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "开始答题",
-  "usingComponents": {
-      "login": "/component/login/login"
-  }
-}
